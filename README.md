@@ -4,7 +4,7 @@ This is a read me. You read it.
 
 # Weeks
 
-Here will be a list of weeks and what I've done in them.
+Here will be a list of weeks and a description of what I did inside of them.
 
 # Week One
 
