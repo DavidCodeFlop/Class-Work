@@ -1,5 +1,17 @@
-# Class-Work
+# Hello There.
 
-# This repo (or whatever it's called) is for all my Programming Classwork for Year 2 BEng Cyber Security.
+This is a read me. You read it.
 
-# All my stuff will be uploaded here most likely.
+# Weeks
+
+Here will be a list of weeks and what I've done in them.
+
+# Week One
+
+# Week Two
+
+This section has Classroom tasks 1-8. ALbeit Taks Two may be broken.
+
+# Week Three
+
+This has small tasks done for strings and arrays.
